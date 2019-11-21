@@ -1,17 +1,17 @@
 baseurl = "https://nb2hugo.netlify.com"
 DefaultContentLanguage = "en"
-title = "nb2hugo demo"
+title = "Data Finance Tech Solutions"
 theme = "beautifulhugo"
 
 [Params]
-  subtitle = "Easily convert your Jupyter notebooks into a blog"
+  subtitle = "Some useful insights around data science, finance, and credit solutions, all of this used in a strategic way"
   dateFormat = "January 2, 2006"
 
 [Author]
   name = "Vincent Lunot"
   website = "https://www.vincent-lunot.com"
   email = "vlunot@gmail.com"
-  
+
 [[menu.main]]
     name = "Blog"
     url = ""
