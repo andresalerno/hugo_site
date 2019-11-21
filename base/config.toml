@@ -8,9 +8,9 @@ theme = "beautifulhugo"
   dateFormat = "January 2, 2006"
 
 [Author]
-  name = "Vincent Lunot"
-  website = "https://www.vincent-lunot.com"
-  email = "vlunot@gmail.com"
+  name = "Prof. Andre Salerno, MSc"
+  #website = "https://www.vincent-lunot.com"
+  email = "andresalerno22@gmail.com"
 
 [[menu.main]]
     name = "Blog"
