@@ -9,7 +9,7 @@ theme = "beautifulhugo"
 
 [Author]
   name = "Prof. Andre Salerno, MSc"
-  #website = "https://www.vincent-lunot.com"
+  website = "https://datafintechsolutions.netlify.com"
   email = "andresalerno22@gmail.com"
 
 [[menu.main]]
@@ -20,4 +20,9 @@ theme = "beautifulhugo"
 [[menu.main]]
     name = "Tags"
     url = "tags"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "contact"
     weight = 3
